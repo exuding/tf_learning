@@ -6,9 +6,7 @@
 
 此书的[中](https://zh.d2l.ai/)、[英](https://d2l.ai/)版本存在一些不同，本项目主要针对此书的中文版进行TensorFlow2重构。另外，本项目也参考了对此书中文版进行PyTorch重构的项目[Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)，在此表示感谢。
 
-**现已更新到十章，持续更新中。。。**
-
-## 项目已被机器之心等多家公众号[报导](https://zhuanlan.zhihu.com/p/96932594)，并且受到原作者李沐的[认可](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0/issues/51)
+我在上述基础上进行自己的笔记学习，非商业用途
 
 
 ## 简介
@@ -35,26 +33,6 @@ cd Dive-into-DL-TensorFlow2.0
 ``` shell
 docsify serve docs
 ```
-## Contributors ✨
-### 这个项目的发起人及主要贡献者如下
-
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/archersama"><img src="https://avatars2.githubusercontent.com/u/14331643?s=400&v=4" width="150px;" alt=""/><br /><sub><b>archersama</b></sub></a><br /></a> </a> <a href="https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0/commits?author=archersama" title="Code">💻(leader)</a></td>
-    <td align="center"><a href="https://github.com/TrickyGo"><img src="https://avatars2.githubusercontent.com/u/25994745?s=400&v=4" width="150px;" alt=""/><br /><sub><b>TrickyGo</b></sub></a><br /><a href="https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0/commits?author=TrickyGo" title="Code">💻</a></td>
-    <td align="center"><a href="https://swordfaith.github.io/"><img src="https://avatars3.githubusercontent.com/u/18397468?s=400&v=4" width="150px;" alt=""/><br /><sub><b>SwordFaith</b></sub></a><br /><a href="https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0/commits?author=SwordFaith" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ShusenTang"><img src="https://avatars3.githubusercontent.com/u/16498688?s=400&v=4" width="150px;" alt=""/><br /><sub><b>ShusenTang</b></sub></a><br /><a href="https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0/commits?author=ShusenTang" title="Code">💻</a></td>
-     <td align="center"><a href="https://github.com/LIANGQINGYUAN"><img src="https://avatars2.githubusercontent.com/u/19152897?s=400&v=4" width="150px;" alt=""/><br /><sub><b>LIANGQINGYUAN</b></sub></a><br /><a href="https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0/commits?author=LIANGQINGYUAN" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 目录
 * [简介]()
@@ -160,7 +138,7 @@ docsify serve docs
    * [11.4 使用AWS运行代码](chapter11_appendix/11.4_aws.md)
    * [11.5 GPU购买指南](chapter11_appendix/11.5_buy-gpu.md)
 
-持续更新中......
+
 
 
 
